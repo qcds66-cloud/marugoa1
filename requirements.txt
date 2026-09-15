@@ -1,3 +1,2 @@
-+gtts
-+streamlit
-+re
+streamlit
+re
